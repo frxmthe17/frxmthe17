@@ -1,13 +1,29 @@
-<h3 align="center">
-  Hi, my name is Aidos, I'll trying make anything on golang
-<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="80px" height="80px"/>
-</h3>   
+<h2 align="center">
+  👋 Hi, I'm <span style="color:#00ADD8">Aidos Aqjoluly</span>
+</h2>
 
-<div id="badges" align="center">
-  <a href="https://web.telegram.org/a/#1132169127" >
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+<h4 align="center">
+  Backend Developer • Golang Enthusiast • Building scalable systems
+</h4>
+
+<p align="center">
+  <a href="https://web.telegram.org/a/#1132169127">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-</div>
+  <a href="mailto:aidos@example.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://golang.org">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="100" height="100"/>
+</p>
+
 
 
 
