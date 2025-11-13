@@ -3,14 +3,14 @@
 </h2>
 
 <h4 align="center">
-  Backend Developer • Golang Enthusiast • Building scalable systems
+  Backend Developer
 </h4>
 
 <p align="center">
   <a href="https://web.telegram.org/a/#1132169127">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:aidos@example.com">
+  <a href="mailto:nomadbaj@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://golang.org">
