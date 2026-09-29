@@ -20,10 +20,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="100" height="100"/>
-</p>
-
 
 
 
